@@ -8,6 +8,7 @@ public class Panel_Imagen extends javax.swing.JPanel{
     public Panel_Imagen(){    
         this.setSize(1440, 800);
         //setExtendedState( MAXIMIZED_BOTH )
+        //hola mundo 
     }
     
     @Override
